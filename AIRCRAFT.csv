@@ -1,0 +1,6 @@
+AIRCRAFT,CAPACITY,SEATS(E),SEATS(B),SEATS(F),FROM,TO
+KA1,33,15,9,9,Delhi,Kuwait
+KA2,33,15,9,9,Doha,San Francisco
+KA3,33,15,9,9,Kuwait,Barcelona
+KA4,33,15,9,9,Melbourne,Chennai
+KA5,33,15,9,9,Zurich,Dubai
